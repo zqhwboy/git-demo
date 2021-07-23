@@ -3,7 +3,8 @@ hello wang x 6
 hello wang x
 hello wang x
 hello wang x
-hello wang x  master test`
+hello wang x  master test
+hello wang x hot-fix`
 
 
 
